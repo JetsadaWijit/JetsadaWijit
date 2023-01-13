@@ -1,3 +1,5 @@
+![GitHub Sponsors](https://img.shields.io/github/sponsors/JetsadaWijit?logo=GitHub%20Sponsors&logoColor=black&style=plastic)
+
 <div id="header" align="center">
   <a href="https://github.com/JetsadaWijit"><img src="https://media4.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" height="120" width="120"/></a>
 </div>
