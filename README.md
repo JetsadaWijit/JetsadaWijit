@@ -2,7 +2,7 @@
 
 I maintain projects on both [`GitHub`](https://github.com/JetsadaWijit) and [`GitLab`](https://gitlab.com/JetsadaWijit).
 
-I manage my projects using a **modular organization architecture**.
+I manage my projects using a **modular organization architecture**.  
 A prime example is [`MCEngine`](https://github.com/MCEngine), which serves as a "core" organization for main plugins.
 
 I then create separate satellite organizations to host extensions for a specific main plugin.
