@@ -14,9 +14,8 @@ For example, [`MCClauneck`](https://github.com/MCClauneck) is created specifical
 * **Flexibility:** It empowers server owners to mix and match exactly which extensions they want to use.
 
 **Tech Stack:**
-* GitHub, GitLab
-* Docker
-* ExpressJS, FastAPI
-* SQLite, MySQL, MongoDB
-* CI/CD, JavaScript, Java, Python
-* ChatGPT, Claude, Gemini, Grok
+* **Languages:** JavaScript, Java, Python
+* **Frameworks:** ExpressJS, FastAPI
+* **Databases:** SQLite, MySQL, MongoDB
+* **Tools:** GitHub, GitLab, CI/CD, Docker
+* **AI:** ChatGPT, Claude, Gemini, Grok
