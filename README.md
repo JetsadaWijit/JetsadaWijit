@@ -1,13 +1,22 @@
-[![repository](https://img.shields.io/badge/repository-gray)](https://github.com/JetsadaWijit/jetsadawijit) [![mail](https://img.shields.io/badge/mail-blue)](mailto:jetsadawijit@outlook.com)
-<div align="center">
-  <a href="https://opencollective.com/jetsadawijit" target="_blank" rel="noopener noreferrer">
-    <img width="300" src="https://opencollective.com/public/images/opencollectivelogo.svg" alt="Open Collective">
-  </a>
-</div>
+### Hi there, I'm JetsadaWijit 👋
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JetsadaWijit&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JetsadaWijit&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+I maintain projects on both [`GitHub`](https://github.com/JetsadaWijit) and [`GitLab`](https://gitlab.com/JetsadaWijit).
 
-###
+I manage my projects using a **modular organization architecture**.
+A prime example is [`MCEngine`](https://github.com/MCEngine), which serves as a "core" organization for main plugins.
+
+I then create separate satellite organizations to host extensions for a specific main plugin.
+For example, [`MCClauneck`](https://github.com/MCClauneck) is created specifically to host extensions for [`MCEconomy`](https://github.com/MCEngine/mceconomy).
+
+**Why I structure projects this way:**
+* **Modularity:** Features can be "plugged" in or out seamlessly without bloating or breaking the core function.
+* **Community Friendly:** It allows other developers to build their own extensions on top of my core plugins without needing to modify the base code.
+* **Flexibility:** It empowers server owners to mix and match exactly which extensions they want to use.
+
+**Tech Stack:**
+* GitHub, GitLab
+* Docker
+* ExpressJS, FastAPI
+* SQLite, MySQL, MongoDB
+* CI/CD, JavaScript, Java, Python
+* ChatGPT, Claude, Gemini, Grok
